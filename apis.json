@@ -1,0 +1,54 @@
+{
+    "name": "Pareteum",
+    "description": "<p>Pareteum's mobile core network platform utilizes virtualized SDN and NFV software technologies enabling mobile operators and MNVOs to eliminate complexity, speed time to market and improve ROI. Pareteum Corporation is a leading Global provider of mobile networking software and services. Our mission is to provide a single solution to the problem of fully enabling and securing the Mobile Cloud.Pareteum covers the entire globe, with a customer base and network of partners in every continent. Rapid Deployment of Solutions for: CSPs, MVNO providers, IoT providers and Enterprise Fully operational services @ the Speed of Need! Pareteum&rsquo;s secure software and services enable customers to achieve business growth and scaling<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28212-www-pareteum-com.jpg",
+    "tags": [
+        "api provider",
+        "have api",
+        "isp",
+        "networks"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/pareteum\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Pareteum",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28212-www-pareteum-com.jpg",
+            "humanURL": "https:\/\/www.pareteum.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/pareteum-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/pareteum-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Email",
+            "url": "Info@pareteum.com"
+        },
+        {
+            "type": "Email",
+            "url": "investorrelations@pareteum.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Pareteum1"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.pareteum.com"
+        }
+    ]
+}
